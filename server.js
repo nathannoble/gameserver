@@ -1,6 +1,3 @@
-var app = require('express')();
-var http = require('http').Server(app);
-
 var gm = new GameManager();
 
 
