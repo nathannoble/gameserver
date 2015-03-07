@@ -1,0 +1,8 @@
+{
+  "name": "gameserver",
+  "version": "0.0.1",
+  "description": "simple node.js game server",
+  "dependencies": {
+    "ws": "^0.7.1"
+  }
+}
